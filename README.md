@@ -16,14 +16,14 @@ It also displays individual course details in a formatted manner.
 Features
 ---
 
-✅ Input number of courses  
-✅ Input grades and credit hours  
-✅ Validation for invalid inputs  
-✅ Calculate total credits  
-✅ Calculate total grade points  
-✅ Compute final CGPA  
-✅ Display course-wise details  
-✅ User-friendly console interface  
+ Input number of courses  
+ Input grades and credit hours  
+ Validation for invalid inputs  
+ Calculate total credits  
+ Calculate total grade points  
+ Compute final CGPA  
+ Display course-wise details  
+ User-friendly console interface  
 
 ---
 
@@ -43,7 +43,7 @@ Repository Structure
 ```bash
 CodeAlpha_CGPA_Calculator/
 │
-├── source.cpp
+├── CGPA_Calculator.cpp
 ├── README.md
 ```
 
@@ -81,11 +81,3 @@ This project was completed as **Task 1** for the CodeAlpha C++ Internship Progra
  ---
 
 **Zainab Abid**
-
----
-
-Connect
----
-
-- GitHub: [add your github profile link]
-- LinkedIn: [Add Your LinkedIn Profile Link]
