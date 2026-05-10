@@ -78,18 +78,14 @@ This project was completed as **Task 1** for the CodeAlpha C++ Internship Progra
 ---
 
  Author
+ ---
 
 **Zainab Abid**
 
 ---
 
 Connect
+---
 
-- GitHub: [Add Your GitHub Profile Link]
-- LinkedIn: [Add Your LinkedIn Profile Link]
-
-
-
-
-- GitHub: [Add Your GitHub Profile Link]
+- GitHub: [add your github profile link]
 - LinkedIn: [Add Your LinkedIn Profile Link]
