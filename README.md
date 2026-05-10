@@ -1,12 +1,6 @@
 # CodeAlpha_CGPA_Calculator
 A simple CGPA Calculator developed in C++ that calculates total credits, grade points and final CGPA using user input.
-# 🎓 CodeAlpha - CGPA Calculator
-
-A simple and user-friendly CGPA Calculator developed in C++ as part of the CodeAlpha C++ Programming Internship.
-
----
-
-## 📌 Project Overview
+ Project Overview
 
 This project allows students to calculate their CGPA by entering course grades and credit hours.  
 The program calculates:
@@ -19,7 +13,7 @@ It also displays individual course details in a formatted manner.
 
 ---
 
-## 🚀 Features
+Features
 
 ✅ Input number of courses  
 ✅ Input grades and credit hours  
@@ -32,7 +26,7 @@ It also displays individual course details in a formatted manner.
 
 ---
 
-## 🛠️ Technologies Used
+Technologies Used
 
 - C++
 - Object-Oriented Concepts
@@ -41,7 +35,7 @@ It also displays individual course details in a formatted manner.
 
 ---
 
-## 📂 Repository Structure
+Repository Structure
 
 ```bash
 CodeAlpha_CGPA_Calculator/
@@ -52,17 +46,14 @@ CodeAlpha_CGPA_Calculator/
 
 ---
 
-## ▶️ How to Run
+ How to Run
 
 1. Open the project in Visual Studio / CodeBlocks / Dev C++
 2. Compile the source file
 3. Run the program
+Sample Output
 
----
-
-## 📸 Sample Output
-
-```text
+text
 Enter number of courses: 3
 
 Course 1
@@ -74,23 +65,20 @@ Enter grade: 4.0
 Enter credit hours: 4
 
 Final CGPA: 3.87
-```
 
----
-
-## 🎯 Internship Task
+Internship Task
 
 This project was completed as **Task 1** for the CodeAlpha C++ Internship Program.
 
 ---
 
-## 👩‍💻 Author
+ Author
 
 **Zainab Abid**
 
 ---
 
-## 🔗 Connect
+Connect
 
 - GitHub: [Add Your GitHub Profile Link]
 - LinkedIn: [Add Your LinkedIn Profile Link]
@@ -133,30 +121,21 @@ It also displays individual course details in a formatted manner.
 - Input Validation
 - Console Application
 
----
+ Repository Structure
 
-## 📂 Repository Structure
-
-```bash
+bash
 CodeAlpha_CGPA_Calculator/
 │
 ├── source.cpp
 ├── README.md
-```
-
----
-
-## ▶️ How to Run
+ How to Run
 
 1. Open the project in Visual Studio / CodeBlocks / Dev C++
 2. Compile the source file
 3. Run the program
+ Sample Output
 
----
-
-## 📸 Sample Output
-
-```text
+text
 Enter number of courses: 3
 
 Course 1
@@ -168,15 +147,11 @@ Enter grade: 4.0
 Enter credit hours: 4
 
 Final CGPA: 3.87
-```
-
----
 
 ## Internship Task
 
 This project was completed as **Task 1** for the CodeAlpha C++ Internship Program.
 
----
 
 ##  Author
 
